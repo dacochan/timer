@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+…or create a new repository on the command line
+echo "# flutter_timer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dacochan/flutter_timer.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/dacochan/flutter_timer.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
